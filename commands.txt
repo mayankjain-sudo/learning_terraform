@@ -16,3 +16,4 @@
 # terraform workspace new projectname
 # terraform workspace list
 # terraform workspace select workspacename
+# terraform apply -var-file=dev.tfvars/uat.tfvars/prod.tfvars
