@@ -15,4 +15,4 @@
 # terraform import <resource_type>.<resource_name> <attributes>
 # terraform workspace new projectname
 # terraform workspace list
-# terraform workspace select workspacename
+# terraform workspace select workspacename.
