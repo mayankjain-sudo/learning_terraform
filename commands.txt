@@ -17,3 +17,5 @@
 # terraform workspace list
 # terraform workspace select workspacename
 # terraform apply -var-file=dev.tfvars/uat.tfvars/prod.tfvars
+# terraform plan -generate-config-out=generated_resources.tf
+# terraform import aws_instances.example InstanceID
